@@ -13,10 +13,16 @@ Olá, este repositório conterá informações objetivas sobre a Síndrome de To
 
 ## Informações aos familiares
 
-## Direito e Jurisprudências
+## Informações à escola
+
+## Grupos de apoio
+
+## Direito e Jurisprudência
 
 ## Filmes e livros (cultura)
 
 ## Livros técnicos
 
 ## Links úteis
+
+## Referências
